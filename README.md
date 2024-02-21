@@ -9,17 +9,14 @@
 
 
 - 🌱 I’m currently learning computer Science
-- 👯 I’m looking to collaborate on ...
 - 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University
-- 🤔 learning new things.
 - 👨‍💻:computer: I am a competitive programmer at Codeforces
+- 🤔 learning new things.
 - 📫 How to reach me: mostafamohamed8828@gmail.com
 
 
 
 <h3 align="center">A Backend developer</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
