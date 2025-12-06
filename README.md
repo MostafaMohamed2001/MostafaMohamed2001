@@ -70,36 +70,12 @@
   <img src="https://img.shields.io/badge/GitHub_CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
----
-
-## 🚧 Featured Projects
-
-### 🔹 **Qumra Cloud (E-commerce Microservices Platform)**  
-A scalable e-commerce backend built using NestJS microservices, GraphQL, Kafka, Redis caching, Nginx load balancing, and AWS deployment.
-
-### 🔹 **Smart Accident Tracking & Rescue System** *(1st Place Award)*  
-Real-time IoT + backend solution for accident detection, live location streaming, and emergency alerts.
-
-### 🔹 **E-commerce REST API**  
-Production-grade Express API with authentication, coupons, filtering, pagination, and clean architecture.
-
-### 🔹 **Real-Time Chat Application**  
-WebSocket-based messaging system with MongoDB persistence and instant notification support.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mostafa&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/mostafa-mohamed-330605257/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="mailto:mostafamohamed8828@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
