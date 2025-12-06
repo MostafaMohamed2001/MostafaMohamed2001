@@ -1,6 +1,4 @@
  
-<h1 align="center">Hi 👋, I'm Mostafa Mohamed</h1>
-
 
 <!--
 **MostafaMohamed2001/MostafaMohamed2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
